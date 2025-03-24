@@ -4,7 +4,7 @@
 #IMPORTANT: Launch script in same directory as manifest file was downloaded
 
 #Matt Harrington, Clemson University
-#03-09-2025
+#2025-03-09
 
 #Install GDC client into bin and put in PATH
 
