@@ -21,16 +21,17 @@ To access the data to create the GEM:
    • Download the manifest file
 
 2. Download the GDC client in a Linux environment and copy it into your PATH
-   
+```
    $ wget https://gdc.cancer.gov/system/files/public/file/gdc-client_2.3_Ubuntu_x64-py3.8-ubuntu-20.04.zip
 
    $ unzip gdc-client_2.3_Ubuntu_x64-py3.8-ubuntu-20.04.zip
 
    $ pip install
-
+```
    • Copy the gdc client to your PATH
 
 
 3. Access datasets from the manifest file via the GDC Client
-
+```
    $ gdc-client download -m [name_of_manifest_file]
+```
