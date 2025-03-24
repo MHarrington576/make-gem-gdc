@@ -1,14 +1,14 @@
 #!/bin/bash
 
-#GDC Breast Cancer RNAseq GEM
-#IMPORTANT: Launch script in same directory as manifest file was downloaded
+# GDC Breast Cancer RNAseq GEM
+# IMPORTANT: Launch script in same directory as manifest file was downloaded
 
-#Matt Harrington, Clemson University
-#2025-03-09
+# Matt Harrington, Clemson University
+# 2025-03-09
 
-#Install GDC client into bin and put in PATH
+# Install GDC client into bin and put in PATH
 
-#Download data from GDC manifest for a given RNAseq set
+# Download data from GDC manifest for a given RNAseq set
 
 OUTPUT_DIR="./GEM_output"
 GEM_OUTPUT="GDC_RNAseq_GEM.tsv"
