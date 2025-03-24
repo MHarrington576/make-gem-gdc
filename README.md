@@ -1,3 +1,3 @@
-# make-gem-tcga
+# make-gem-gdc
 
 Testing README file edit.
